@@ -7,6 +7,6 @@ const Header = ({title}) => {
       <h1>{title}</h1>
     </Styles.Header>
   );
-}
+};
  
 export default Header;

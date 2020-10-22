@@ -2,7 +2,7 @@ import styled from 'styled-components';
 import './styles.css';
 
 export default {
-  Header: styled.header`
+    Header: styled.header`
     padding: 1em;
     border-radius: 10px;
     margin: 0 auto;
