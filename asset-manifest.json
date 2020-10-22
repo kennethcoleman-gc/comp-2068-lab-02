@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.b531ca7e.chunk.css",
-    "main.js": "/static/js/main.aed52420.chunk.js",
-    "main.js.map": "/static/js/main.aed52420.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.02030f09.js",
-    "runtime-main.js.map": "/static/js/runtime-main.02030f09.js.map",
-    "static/css/2.d9ad5f5c.chunk.css": "/static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.305cd093.chunk.js": "/static/js/2.305cd093.chunk.js",
-    "static/js/2.305cd093.chunk.js.map": "/static/js/2.305cd093.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.71b0bd10323880d9c04ef3b357919b61.js": "/precache-manifest.71b0bd10323880d9c04ef3b357919b61.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.d9ad5f5c.chunk.css.map": "/static/css/2.d9ad5f5c.chunk.css.map",
-    "static/css/main.b531ca7e.chunk.css.map": "/static/css/main.b531ca7e.chunk.css.map",
-    "static/js/2.305cd093.chunk.js.LICENSE.txt": "/static/js/2.305cd093.chunk.js.LICENSE.txt",
-    "static/media/walt.jpg": "/static/media/walt.c195baca.jpg"
+    "main.css": "/kennethcoleman-gc/comp-2068-lab-02/static/css/main.b531ca7e.chunk.css",
+    "main.js": "/kennethcoleman-gc/comp-2068-lab-02/static/js/main.aed52420.chunk.js",
+    "main.js.map": "/kennethcoleman-gc/comp-2068-lab-02/static/js/main.aed52420.chunk.js.map",
+    "runtime-main.js": "/kennethcoleman-gc/comp-2068-lab-02/static/js/runtime-main.00b00040.js",
+    "runtime-main.js.map": "/kennethcoleman-gc/comp-2068-lab-02/static/js/runtime-main.00b00040.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/kennethcoleman-gc/comp-2068-lab-02/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.3fa07df1.chunk.js": "/kennethcoleman-gc/comp-2068-lab-02/static/js/2.3fa07df1.chunk.js",
+    "static/js/2.3fa07df1.chunk.js.map": "/kennethcoleman-gc/comp-2068-lab-02/static/js/2.3fa07df1.chunk.js.map",
+    "index.html": "/kennethcoleman-gc/comp-2068-lab-02/index.html",
+    "precache-manifest.12052a824e116048b2b20f84c46fd730.js": "/kennethcoleman-gc/comp-2068-lab-02/precache-manifest.12052a824e116048b2b20f84c46fd730.js",
+    "service-worker.js": "/kennethcoleman-gc/comp-2068-lab-02/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/kennethcoleman-gc/comp-2068-lab-02/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.b531ca7e.chunk.css.map": "/kennethcoleman-gc/comp-2068-lab-02/static/css/main.b531ca7e.chunk.css.map",
+    "static/js/2.3fa07df1.chunk.js.LICENSE.txt": "/kennethcoleman-gc/comp-2068-lab-02/static/js/2.3fa07df1.chunk.js.LICENSE.txt",
+    "static/media/walt.jpg": "/kennethcoleman-gc/comp-2068-lab-02/static/media/walt.c195baca.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.02030f09.js",
+    "static/js/runtime-main.00b00040.js",
     "static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.305cd093.chunk.js",
+    "static/js/2.3fa07df1.chunk.js",
     "static/css/main.b531ca7e.chunk.css",
     "static/js/main.aed52420.chunk.js"
   ]
