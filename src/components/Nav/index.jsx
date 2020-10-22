@@ -10,29 +10,30 @@ import Home from "../Home";
 import About from "../About"
 
 const Nav = () => {
-  return (
-    <Router>
-      <Styles.Nav>
-        <ul>
-          <li>
-            <Link to="/">Home</Link>
-          </li>
-          <li>
-              <Link to="about">About</Link>
-          </li>
-        </ul>
-      </Styles.Nav>
+    return (
+        <Router>
+            <Styles.Nav>
+                <ul>
+                    <li>
+                        <Link to="/">Home</Link>
+                    </li>
+                    <li>
+                        <Link to="/about">About</Link>
+                    </li>
+                </ul>
+            </Styles.Nav>
 
-      <Switch>
-        <Route exact path="/">
-            <Home/>
-        </Route>
-        <Route exact path="/about">
-            <About/>
-        </Route>
-      </Switch>
-    </Router>
-  );
+            <Switch>
+                <Route exact path="/about">
+                    <About/>
+                </Route>
+                <Route path="/">
+                    <Home/>
+                </Route>
+
+            </Switch>
+        </Router>
+    );
 };
 
 export default Nav;

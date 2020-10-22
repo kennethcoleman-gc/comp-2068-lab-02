@@ -21,7 +21,6 @@ const About = () => {
 
             <p>
                 <img src={require=Walt} alt="Walter's Big Dog Face" title="'Chu lookin' at?"/>
-                <figcaption>" 'Chu lookin' at? "</figcaption>
             </p>
         </>
     );

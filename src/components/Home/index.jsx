@@ -13,7 +13,7 @@ const Home = () => {
             <p>
                 <Link to="/about">
                     <button type="button">
-                        Button
+                        You know you wanna
                     </button>
                 </Link>
             </p>
